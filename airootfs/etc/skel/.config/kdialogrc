@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP-1 DP-1 Height 1920x1080=626
+eDP-1 DP-1 Width 1920x1080=815
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Builds/TWRP/kirin-not-booting.txt,file:$HOME/Downloads/FeG2lOcaAAAk6ae.jpeg,file:$HOME/Downloads/What Is Yom Kippur_ - The Day of Atonement - High Holidays.pdf,file:$HOME/Downloads/Fd_jefvXoAIaY2T.jpeg,file:$HOME/Downloads/Statin_therapy_is_not_warranted_for_a_person_with.14.pdf,file:$HOME/Downloads/toppng.com-linux-logo-442x512.png,file:$HOME/Downloads/linux-logo-11609367586ylouiw3chu.png
+Recent URLs[$e]=file:///usr/share/applications/,file:$HOME/Music/,file:$HOME/Pictures/,file:$HOME/Pictures/wallpapers/,file:$HOME/.local/share/TelegramDesktop/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Documents/WORK FINDING/ID/,file:$HOME/Builds/TWRP/
+detailViewIconSize=16

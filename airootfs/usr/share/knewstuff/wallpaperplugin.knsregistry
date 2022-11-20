@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="419">
+  <name>FlipClock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>DavidEdmundson</author>
+  <homepage>https://store.kde.org/p/1452550</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>70</rating>
+  <downloads>12928</downloads>
+  <installedfile>/home/yehudi/.local/share/plasma/wallpapers/net.davidedmundson.flipclock</installedfile>
+  <id>1452550</id>
+  <releasedate>2020-11-29</releasedate>
+  <summary>Inspired by screenshots from other operating systems, this wallpaper features large text displayed as a giant old-school style flip-clock, with appropriate animations.&lt;br />
+&lt;br />
+Despite being a wallpaper, the intended usage is as a background for the screensaver.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/03/92/10/1452550/daef652c4024226a1ac94234b05d3b56c3231fcd288a5fba642ebf8d87dc6e96a60a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/03/92/10/1452550/daef652c4024226a1ac94234b05d3b56c3231fcd288a5fba642ebf8d87dc6e96a60a.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDY2NzA4MTAiLCJvIjoiMSIsInMiOiJmNGYwYzdjMTNjYWVjMmQ3Y2MzY2UwZTk3NTRjOGExYTUyMTIzNGZjYjUzZjNhZTMyNmFiMzJjNTllY2EyMTliYmJkNzgwZDBkZWQ1NmMzY2JjNjMxOWE4OTRiNmY2ZWZhZjQyYzZlNTA3MTNiMTQzMDRkMzVjNTAwZDI3YWYxMSIsInQiOjE2NDc0ODYzNTMsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Ni4xNTIifQ.89n7nhzgLmISpYIbJsekJHCvtTBIXMwKPIlg050ZNgU/flipclockwallpaper.zip</payload>
+  <tags>wallpaper-plugin,unix,lgplv3,linux,kde,extension,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="419">
+  <name>SmartER Video Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sirpedroec</author>
+  <homepage>https://store.kde.org/p/1448924</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>64</rating>
+  <downloads>9921</downloads>
+  <installedfile>/home/yehudi/.local/share/plasma/wallpapers/smartervideowallpaper</installedfile>
+  <id>1448924</id>
+  <releasedate>2020-11-21</releasedate>
+  <summary>SmartER Video Wallpaper&lt;br />
+&lt;br />
+Modified KDE Plugin of Smart Video Wallpaper. I've added an "Always Play" mode to stop the wallpaper from pausing when a window is open. I found this is a must have for a multi-monitor setup.&lt;br />
+&lt;br />
+Based on: https://store.kde.org/p/1316299/&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/59/39/84/1448924/ce20c2dabb177f8271a88f34d017e9c739bbac4265ecf2fa73f536da9f9b4995cb53.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/59/39/84/1448924/ce20c2dabb177f8271a88f34d017e9c739bbac4265ecf2fa73f536da9f9b4995cb53.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDU5ODc5OTEiLCJvIjoiMSIsInMiOiI3YjY2ZmFlYzE2NzQwNDc3YmQ4YmU2NWNjZmU4MDJmY2VkNGVhMzA1ZWYxNTRkN2Q4Y2UyNTIwOTllMGU4OTdiMDQ0NGM1NmVjZjhiZDJmYzMxZjY1MTQxZTEyMTgxZTNkMmY1ODZiOGY1NTc0MTRkNDk3NDY0MmI2OWFmOWY5YSIsInQiOjE2NDgyMTExNTAsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi4xNjQifQ.BRJS2CL_azpriqQgwS5qoj9UBzM8UkyQbj5Zkf6CJhk/smartERvideowallpaper.tar.gz</payload>
+  <tags>efi,kde,kde5,linux,mit-license,extension,wallpaper,wallpaper-plugin,unix,video,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

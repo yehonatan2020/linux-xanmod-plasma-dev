@@ -1,0 +1,16 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1018a16b1b81b1000165668237900000011900005
+count=1
+program1=/usr/bin/octopi-notifier
+restartCommand1=/usr/bin/octopi-notifier,-session,1018a16b1b81b1000165668237900000011900005_1656886929_649094
+restartStyleHint1=0
+userId1=yehudi

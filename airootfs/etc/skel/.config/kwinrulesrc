@@ -1,0 +1,73 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[010cd700-eb5b-4d05-87c5-55cc2db132c3]
+Description=Application settings for
+clientmachine=localhost
+noborder=true
+noborderrule=4
+screen=1
+screenrule=3
+wmclassmatch=1
+
+[1]
+Description=Application settings for
+clientmachine=localhost
+noborder=true
+noborderrule=4
+screenrule=4
+title=Xeoma 22.3.16 Connection to server required [localhost]
+wmclassmatch=1
+
+[1972ec4c-e8ed-4b53-8025-69f7ab6ad286]
+Description=Window settings for
+clientmachine=localhost
+noborder=true
+noborderrule=4
+title=Xeoma 22.3.16 Connection to server required [localhost]
+titlematch=1
+types=1
+wmclassmatch=1
+
+[2]
+Description=Window settings for
+clientmachine=localhost
+noborder=true
+noborderrule=4
+screen=1
+title=Xeoma 22.3.16 Connection to server required [localhost]
+titlematch=1
+types=1
+wmclassmatch=1
+
+[3]
+Description=Application settings for telegramdesktop
+clientmachine=localhost
+noborderrule=4
+screen=1
+screenrule=4
+wmclass=telegram-desktop telegramdesktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[9eb92835-b2bc-443e-b8be-3d03553e2e52]
+Description=Application settings for
+clientmachine=localhost
+noborder=true
+noborderrule=4
+screen=2
+screenrule=4
+wmclassmatch=1
+
+[General]
+count=3
+rules=1,2,3
+
+[de1a3fbd-11e0-497e-9746-8797a4e3380f]
+Description=Application settings for telegramdesktop
+clientmachine=localhost
+noborder=true
+noborderrule=4
+wmclass=telegram-desktop telegramdesktop
+wmclasscomplete=true
+wmclassmatch=1

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Win11OS-dark Color Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1554625</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>53665</downloads>
+  <installedfile>/home/yehudi/.local/share/color-schemes/Win11OSDark.colors</installedfile>
+  <id>1554625</id>
+  <releasedate>2021-07-11</releasedate>
+  <summary>Win11OS-dark kde is a dark clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+Main launcher:OnzeMenu&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11OS Global Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1554642/" target="_blank" rel="nofollow">https://www.pling.com/p/1554642/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-dark Plasma Theme  &lt;/strong>:&lt;a href="https://www.pling.com/p/1554634/" target="_blank" rel="nofollow">https://www.pling.com/p/1554634/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-dark Sddm Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1554630/" target="_blank" rel="nofollow">https://www.pling.com/p/1554630/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-dark Aurorae Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1554624/" target="_blank" rel="nofollow">https://www.pling.com/p/1554624/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-dark Kvantum &lt;/strong>:&lt;a href="https://www.pling.com/p/1554628/" target="_blank" rel="nofollow">https://www.pling.com/p/1554628/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-dark Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1554620/" target="_blank" rel="nofollow">https://www.pling.com/p/1554620/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11 icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1546069/" target="_blank" rel="nofollow">https://www.pling.com/p/1546069/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1554625/screenshot-20220819-032655.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1554625/screenshot-20220819-032655.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjYwMzE5NjciLCJvIjoiMSIsInMiOiI0MWNiMmNiNDBmNTdjYmMzN2U5OGFhODg5NDRkMmUwOTlkMmIyNTA5MTc0ZGJhMTM4ZGZkNDlmNDNkOGFmM2UxNDJmM2M2NjUyZWNhOTViNDYxZmJkMGUwNjM5MmM1MzVmOGY5ODJjOGUwZWU0MDk4ZDU0NjA0MDgzOTc1M2FlNiIsInQiOjE2NTc5MDM2MTMsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MiJ9.n-z5FIAdLrF-g1CknJ8lNymY_sRazoHRS2JbUgSjkKM/Win11OSDark.zip</payload>
+  <tags>original-product,plasma,unix,theme,colorscheme,linux,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Win11OS-light Color Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1563784</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>52</rating>
+  <downloads>258</downloads>
+  <installedfile>/home/yehudi/.local/share/color-schemes/Win11OSLight.colors</installedfile>
+  <id>1563784</id>
+  <releasedate>2022-08-22</releasedate>
+  <summary>Win11OS-light kde is a dark clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+Main launcher:OnzeMenu/Menu 11&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Global Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1568198/" target="_blank" rel="nofollow">https://www.pling.com/p/1568198/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Plasma Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1563794/" target="_blank" rel="nofollow">https://www.pling.com/p/1563794/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Sddm Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1563791/" target="_blank" rel="nofollow">https://www.pling.com/p/1563791/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Aurorae Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1563782/" target="_blank" rel="nofollow">https://www.pling.com/p/1563782/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Kvantum &lt;/strong>:&lt;a href="https://www.pling.com/p/1563789/" target="_blank" rel="nofollow">https://www.pling.com/p/1563789/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1563780/" target="_blank" rel="nofollow">https://www.pling.com/p/1563780/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11 icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1546069/" target="_blank" rel="nofollow">https://www.pling.com/p/1546069/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1563784/screenshot-20220823-010844.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1563784/screenshot-20220823-010844.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjExOTQxNjIiLCJvIjoiMSIsInMiOiIzY2E3OTVlMmMxMjM3NGYxNjE1YzY5NTgxNGQyZGFlZjg0NDI1MzQzYjBjM2JlOWI1NGNiYjc0YmFhYmYyM2M3YjRiZTAwZDc3OWZjM2ViMWVhYzZjNjE1YjNiMTQ5YjYxZWRlZjI5YjhlMWRlMjNmZWVkYmMyYjYxMGVjYzY0YSIsInQiOjE2NjEzMDQ0MjAsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MyJ9.DIlbQnorVt_ZYXgcWSZ22wVBLZ2K-EmA0YnHnJaB7EI/Win11OSLight.zip</payload>
+  <tags>original-product,plasma,colorscheme,linux,gplv3,kde,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

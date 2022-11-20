@@ -1,0 +1,36 @@
+[KFileDialog Settings]
+Recent Files[$e]=test-icon.png,file:///usr/share/icons/start.png,file:$HOME/Pictures/icons/test-icon.png,file:$HOME/Downloads/splash.png,file:$HOME/Pictures/wallpapers/blackened.png,file:$HOME/Pictures/wallpapers/Wallpaper/Windows/img19.jpg,file:$HOME/Pictures/icons/test.png,file:$HOME/Videos/Incredible Arctic Northern Lights-58QmLe9IoZ8.webm,file:$HOME/Videos/Romanian MEP Cristian Terheş 'When you know everything about your government\\, its democracy'-13yOVhH4a-U.mp4,file:$HOME/Videos/2022-01-13_19-50-01.mp4
+Recent URLs[$e]=file:///usr/share/icons/,file:$HOME/Videos/,file:$HOME/Downloads/VideoDownloader/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/Pictures/,file:$HOME/Pictures/icons/,file:$HOME/Pictures/wallpapers/Wallpaper/Windows/,file:$HOME/Pictures/wallpapers/,file:///usr/share/
+detailViewIconSize=16
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 2][Horizontal1600]
+thickness=44
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 28][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 28][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 28][Vertical1080]
+thickness=44
+
+[PlasmaViews][Panel 35][Defaults]
+thickness=46
+
+[PlasmaViews][Panel 35][Horizontal1920]
+thickness=46
+
+[ScreenConnectors]
+0=eDP
+1=DP-1
+2=DisplayPort-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js

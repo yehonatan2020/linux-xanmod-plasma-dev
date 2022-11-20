@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Expose</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>phob1an</author>
+  <homepage>https://store.kde.org/p/1487857</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>5019</downloads>
+  <installedfile>/home/yehudi/.local/share/konsole/d2.colorscheme</installedfile>
+  <id>1487857</id>
+  <releasedate>2021-03-04</releasedate>
+  <summary>Part of Expose Global Theme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/12/32/1487857/96654673fe2f9a87b92d23eb3241db4e38c97fa77543d584c89469fdfa2f6dcc6753.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/12/32/1487857/96654673fe2f9a87b92d23eb3241db4e38c97fa77543d584c89469fdfa2f6dcc6753.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTQ5MDQ5NDciLCJvIjoiMSIsInMiOiI1OTgwMGVhOWRkZmZjNDU0MTY4MTExZjc3OTZlNjNhYjllMmFhNDkyN2E3ZTdiYTc5OTBmNjM5ZmMyNDEyMmQ0ZWJmMjg1NWU0ZDAwZmM5MmIzMTI2OGQ3MmIwYWM1ZDMzZDZhZWE1NTUyYjBkNmZmMWY2MTQ0YWY1NjRlNWZmZSIsInQiOjE2NDc0ODIzODIsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Ni4xNTIifQ.8EhCdxfpNUglHhP7QONEIaGw36Wv0fdW2bzGrRkJBtg/d2.colorscheme</payload>
+  <tags>addon,original-product,cc-by</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

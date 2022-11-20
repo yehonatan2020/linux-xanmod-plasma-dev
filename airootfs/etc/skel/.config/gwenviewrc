@@ -1,0 +1,60 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+BackgroundColorMode=BackgroundColorWidget::Dark
+BirdEyeViewEnabled=false
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP DisplayPort-0=eDP
+eDP DisplayPort-0 Height 1920x1080 eDP=1000
+eDP DisplayPort-0 Width 1920x1080 eDP=960
+eDP DisplayPort-0 Window-Maximized 1920x1080 eDP=true
+eDP DisplayPort-0 XPosition 1920x1080=840
+eDP DisplayPort-0 XPosition 1920x1080 eDP=312
+eDP DisplayPort-0 YPosition 1920x1080=178
+eDP DisplayPort-0 YPosition 1920x1080 eDP=34
+eDP-1 DP-1 Height 1920x1080=1001
+eDP-1 DP-1 Width 1920x1080=960
+eDP-1 DP-1 Window-Maximized 1920x1080=true
+eDP-1 DP-1 XPosition 1920x1080=168
+eDP-1 DP-1 YPosition 1920x1080=33
+
+[Notification Messages]
+HideMenuBarWarning=false
+
+[Print]
+PrintHeight=19.65
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/.secrets/Screenshot from 2022-06-24 12-12-20.png
+File10[$e]=$HOME/Pictures/work-logo.png
+File2[$e]=$HOME/Pictures/.secrets/Screenshot from 2022-07-13 11-21-30.png
+File3[$e]=$HOME/Pictures/.secrets/sexysophie.jpeg
+File4[$e]=$HOME/Pictures/.secrets/TASH1.png
+File5[$e]=$HOME/Pictures/.secrets/Angela.jpeg
+File6[$e]=$HOME/Pictures/.secrets/beauty.png
+File7[$e]=$HOME/Pictures/.secrets/C-s1OYKU0AAoBru.jpeg
+File8[$e]=$HOME/Pictures/.secrets/D3hDvD6UcAE-dxH.jpeg
+File9[$e]=$HOME/Pictures/.secrets/delicious.jpeg
+Name1[$e]=Screenshot from 2022-06-24 12-12-20.png
+Name10[$e]=work-logo.png
+Name2[$e]=Screenshot from 2022-07-13 11-21-30.png
+Name3[$e]=sexysophie.jpeg
+Name4[$e]=TASH1.png
+Name5[$e]=Angela.jpeg
+Name6[$e]=beauty.png
+Name7[$e]=C-s1OYKU0AAoBru.jpeg
+Name8[$e]=D3hDvD6UcAE-dxH.jpeg
+Name9[$e]=delicious.jpeg
+
+[StatusBar]
+IsVisible ViewMode=false

@@ -1,0 +1,25 @@
+{
+    "schema_version": 2,
+    "timestamp": 1667741955,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/yehudi/Videos",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        }
+                    ],
+                    "label": "yehudi@yehonatan-nl5xnu: ~/Videos",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Spectrum Highlight Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>doncsugar</author>
+  <homepage>https://store.kde.org/p/1479179</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>50</rating>
+  <downloads>11194</downloads>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/SpectrumLightHighlightFlat/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/SpectrumDarkHighlightFlat/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/SpectrumLightHighlightOutline/*</installedfile>
+  <id>1479179</id>
+  <releasedate>2021-02-05</releasedate>
+  <summary>This theme makes focused windows the highlight color in the color scheme. Features a heavy shadow for focused windows and a light shadow for unfocused windows. Recommended configuration is "Normal" border size.&lt;br />
+&lt;br />
+As with all Aurorae themes, it is better to have lower blur values to avoid sharp corners on blurred windows.&lt;br />
+&lt;br />
+It is recommended to use this theme with color-compatible Plasma Themes.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/12/88/1479179/ea409b6c9194f08b3cb12210800e43999ecb82ca788d3eb7be1cfdc3de8b646fe25b.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/12/88/1479179/ea409b6c9194f08b3cb12210800e43999ecb82ca788d3eb7be1cfdc3de8b646fe25b.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI1MDk4OTEiLCJvIjoiMSIsInMiOiJmOWFmMDIzYTU1M2QzYWE4MjlkNWEzYmNhN2NiMTNhM2FiYzY4M2Q4NWMyZTRlMzA3ZjlkOGZhY2MyYmQ3ZjBlYWNmMWM2YWMxNTBkZGRlNTdiYTQ3Y2ZlOGM4NzFiZjRmMTJlOTBjNGFlNGNkN2NlODQzYjA3MWY2OWE0NmEwOCIsInQiOjE2NTc5MDcwNjAsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MiJ9.ICg_bXB6kLkfFom7bkEn_-46_sl5U7XxM-BQbPvEtDY/spectrum-colors-aurorae.zip</payload>
+  <tags>kde,linux,gplv3,unix,theme,spectrum,plasma,colors</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Qogir Aurorae Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1298366</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>75</rating>
+  <downloads>20254</downloads>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/Qogir-dark/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/Qogir-light-circle/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/Qogir-light/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/Qogir-circle/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/Qogir-dark-circle/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/Qogir/*</installedfile>
+  <id>1298366</id>
+  <releasedate>2022-03-24</releasedate>
+  <summary>&lt;strong> Qogir KDE Aurorae Theme &lt;/strong>&lt;br />
+&lt;br />
+Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+&lt;strong> Recommendations &lt;/strong>&lt;br />
+&lt;br />
+ For better looking please use this pack with:&lt;br />
+&lt;br />
+&lt;strong>１.&lt;/strong>--Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a> .</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1298366/95267f38fd3b616b960398c641136104c819ab0d10eddee38071a9b5fea5a9088e01.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1298366/95267f38fd3b616b960398c641136104c819ab0d10eddee38071a9b5fea5a9088e01.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDgwOTUxOTUiLCJvIjoiMSIsInMiOiJlMjc4N2MzNmJjZGEyM2JiZTJlZjU4ZDYxZDA2OWFjYWViMGM2NjY2N2I3Mjg0YzQ5ZjZiMzRjOTRlMDM0ZGYwZDY0MmU2MzZkMmI4NTYzM2ZkNmM0ZmY2YjZkYmM3MTQ5ZjkzZTYzZGIwOThhZmNlNzc0Y2IwYzYwYWM0NmE3YyIsInQiOjE2NjEzMDQ0NTQsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MyJ9.1T98C7jF2mw8JCSMQBCRpGkz_Wo08669X6-3lI7GTtQ/Qogir.tar.xz</payload>
+  <tags>unix,theme,original-product,plasma,linux,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Spectrum Maw Sit Sit</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>doncsugar</author>
+  <homepage>https://store.kde.org/p/1511192</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>50</rating>
+  <downloads>3505</downloads>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/SpectrumMawSitSitBlur/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/SpectrumMawSitSit/*</installedfile>
+  <id>1511192</id>
+  <releasedate>2021-04-23</releasedate>
+  <summary>This is the Aurorae theme for &lt;a href="https://store.kde.org/p/1450417/" target="_blank" rel="nofollow">Spectrum Maw Sit Sit&lt;/a>. It is meant to be used with its &lt;a href="https://store.kde.org/p/1510247/" target="_blank" rel="nofollow">Kvantum Theme&lt;/a>. Includes an opaque version and a blur version. You can also use Breeze titlebars for the opaque version and select "Draw titlebar background gradient" for a similar appearance. Recommended configuration is to select either "No Side Borders" (better) or "No borders" (best).&lt;br />
+&lt;br />
+The screenshots feature Luwx's &lt;a href="https://www.pling.com/p/1485229/" target="_blank" rel="nofollow">Lightly Shaders&lt;/a> Kwin Effect.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/12/88/1511192/b3d21f59bfd5c42b130c14cb42c34ad214acf09906e819bc2094154471ddee42e89f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/12/88/1511192/b3d21f59bfd5c42b130c14cb42c34ad214acf09906e819bc2094154471ddee42e89f.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTkxNTEzNjQiLCJvIjoiMSIsInMiOiIxZTg2ZjM1ZDcyYTQyOWM0OTQzM2ZiMjEzZWU0NTI3ZGE0YzQxM2YxZDRmZDQ0YWQwYzMyMzNlODJjYjVkOWY3YWZlNWMwNmJjZGU0Njg5ZTQ1NDIyN2MxNGIwODU5ODllNWI1MjgwNjM4ZWYzMTkzMDZmYjNlNGI0OTdlN2RmZCIsInQiOjE2NTc5MDcwNDMsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MiJ9.hMeEkl5QATCM9DKUiR32rdx48m4a8oA-4rxsJEkw_70/SpectrumMawSitSit.zip</payload>
+  <tags>kde,gplv3,green,linux,theme,unix,dark,plasma,spectrum</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Spectrum Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>doncsugar</author>
+  <homepage>https://store.kde.org/p/1479172</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>58</rating>
+  <downloads>11939</downloads>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/SpectrumDarkBlur/*</installedfile>
+  <installedfile>/home/yehudi/.local/share/aurorae/themes/SpectrumLightBlur/*</installedfile>
+  <id>1479172</id>
+  <releasedate>2021-02-05</releasedate>
+  <summary>This theme colors itself according to your panel (plasma theme colors). This includes a light variant and a dark variant for color schemes that are light or dark, respectively. Features a heavy shadow for focused windows and a light shadow for unfocused windows. Recommended configuration is to uncheck "Use theme's default window border size" and select either "No Side Borders" (better) or "No borders" (best).&lt;br />
+&lt;br />
+As with all Aurorae themes, it is better to have lower blur values to avoid sharp corners on blurred windows.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/12/88/1479172/7a81ae91634e8d994e20617cb008b98e6d8e288d2f1d84c28d6abe4723201d921ad2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/12/88/1479172/7a81ae91634e8d994e20617cb008b98e6d8e288d2f1d84c28d6abe4723201d921ad2.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI1MDU1NzQiLCJvIjoiMSIsInMiOiI2M2E3OWVlMTNkNjgzMmNiZmEzZDA2NTRjZjlkMzc3ZTgwOGZkZDBmZDIwMzZjZjA4MTM1YWQwMzI3MzY2NTM1MjU0NjcxOGE3YjRiZWE3NjkwYmFmNDhkOTBiYjM0YTI4YjI1M2I3MjEwZDAyOTUwNDA2ZWJkZjMxNmUyNzg2ZCIsInQiOjE2NTc5MDcwNzAsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MiJ9.0IuC8IJ7_VFGFOqal004O0CqHW3UWsNGLaOzKJMb1y8/spectrum-light-dark-aurorae.zip</payload>
+  <tags>plasma,spectrum,kde,linux,gplv3,colors,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

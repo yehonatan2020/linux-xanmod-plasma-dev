@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Willow Spectrum</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>doncsugar</author>
+  <homepage>https://store.kde.org/p/1757048</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>4801</downloads>
+  <installedfile>/home/yehudi/.local/share/plasma/desktoptheme/willow-spectrum-plasma</installedfile>
+  <id>1757048</id>
+  <releasedate>2022-04-07</releasedate>
+  <summary>Use Plasma 24 for best results. I recommend having "Background Contrast" on in "Desktop Effects." Change your Color Scheme and spectrum will change with it. Best panel height is 52px.&lt;br />
+&lt;br />
+Also, please leave a comment on &lt;a href="https://www.pling.com/p/1735447/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/12/88/1757048/productpicture.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/12/88/1757048/productpicture.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTM1MTk1MzAiLCJvIjoiMSIsInMiOiIzNWQ4OWE1N2NmZmM5NjE2YjQ1MjcyNmY3YzI2MTM2MDEzNjc2MjQ2ODBmNWNlMzhkNzZlMTQ0NjY1OTEwNDRhYWNkNjBlNjI2ZmNjNzMxN2I4YmM2ZTQ3NWE2OThkNTA4ODE0MWE2NjVjYjY3NDZkNGIwZmM5ZTQwNGQ2ODQ1MSIsInQiOjE2NTk2MjAyMDgsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi4xNzYifQ.Bm_9HWMX-7Us5zh7ytsUbIRErpmbtTEia6jDwovQ71Q/willow-spectrum-plasma.zip</payload>
+  <tags>color,linux,gplv3,kde,spectrum,theme,plasma,unix,plasma##majorversion=5,windows</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Willow Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>doncsugar</author>
+  <homepage>https://store.kde.org/p/1563375</homepage>
+  <licence></licence>
+  <version>.1</version>
+  <rating>68</rating>
+  <downloads>1006</downloads>
+  <installedfile>/home/yehudi/.local/share/plasma/desktoptheme/willow-dark-plasma</installedfile>
+  <id>1563375</id>
+  <releasedate>2022-02-25</releasedate>
+  <summary>A Windows 11 style plasma style. The best panel height is 52px at 100% scaling.&lt;br />
+&lt;br />
+Configuration info is available at Willow's Github page.&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1561335" target="_blank" rel="nofollow">Dark Window Decoration&lt;/a>&lt;br />
+&lt;br />
+&lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/12/88/1563375/398177891689d600f091d8fe21ac1d594f11bd3bb7362b3fe17a9f802c95d56ca7a2.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/12/88/1563375/398177891689d600f091d8fe21ac1d594f11bd3bb7362b3fe17a9f802c95d56ca7a2.jpg</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTM1MTk1NDEiLCJvIjoiMSIsInMiOiIzN2MxODFkMTUwNjM4MTkxODEyMzQ2OTFhYmNhMTVmYTNhNGU0MmNiOTBlNTBmOTgyZWZiNjE0MTliY2Y1MmRjMWFiNzM2Y2ZkYWMyNzZkMDJlZDY2MGM2ODZiMGM4Yjc1Y2UxYmM3MGQ4YWZkNGE5ZjllZDEzMjU5MGU4YjAxYyIsInQiOjE2NTc5MDMyOTksInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MiJ9.dhjKLlY-L4v6GnAAItbLgb6znPHaA_C4CjEeg5zdXxA/willow-dark-plasma.zip</payload>
+  <tags>unix,willow,windows,plasma##majorversion=5,dark,gplv3,linux,kde,plasma,original-product,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Win11OS-light Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1563794</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1038</downloads>
+  <installedfile>/home/yehudi/.local/share/plasma/desktoptheme/Win11OS-light</installedfile>
+  <id>1563794</id>
+  <releasedate>2022-07-04</releasedate>
+  <summary>Win11OS-light kde is a dark clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1563794/aad033e39f3a6c4234cea5c0704b3752737b454949cdc35444fbe81cf72304642bdb.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1563794/aad033e39f3a6c4234cea5c0704b3752737b454949cdc35444fbe81cf72304642bdb.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY5MzE4OTQiLCJvIjoiMSIsInMiOiIwNjhkMGQ1MGExZGVmNDY4Yzk3ZGE5YThmNDU4YTAxZWQ2MWVlNzFlM2UwMmZjMTcxYTRiMWYxYjhlYTY4OWE5ZjhiNGU3NDg5OTEzMzIwYzg3ODI2Y2ViMWI3NzI4NGM3N2E4ZmRmMTFlYzMyNDVhZTViZWEwNTJmNWI4YTc5MSIsInQiOjE2NTc5MDMzMDMsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjA1LjE5Mi42MiJ9.gTYFCvzOJKBFTvu2Y7VuGvsEVtTa4hsF6iuosPf_RVI/Win11OS-light.zip</payload>
+  <tags>gplv3,linux,kde,original-product,theme,plasma,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
