@@ -1,5 +1,5 @@
 #!/bin/bash
 
-mv -v /etc/mkinitcpio.d/alg /etc/mkinitcpio.d/linux-xanmod.preset
+mv -v /etc/mkinitcpio.d/alg /etc/mkinitcpio.d/linux-xanmod-rt.preset
 
 rm -v /usr/local/bin/alg-preset

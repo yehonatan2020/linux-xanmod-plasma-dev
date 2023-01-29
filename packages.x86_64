@@ -134,7 +134,6 @@ qtdbusextended
 qtmpris
 reflector
 reiserfsprogs
-rygel
 rp-pppoe
 rpm
 sdparm
@@ -176,7 +175,7 @@ xfsprogs
 xl2tpd
 yajl
 yaml-cpp
-youtube-dl
+yt-dlp
 zsh
 zsh-autosuggestions
 zsh-completions
@@ -185,8 +184,8 @@ kexec-tools
 wget
 
 #Kernel
-linux-xanmod
-linux-xanmod-headers
+linux-xanmod-rt
+linux-xanmod-rt-headers
 
 #Linuxarch Core
 archlinux-wallpaper

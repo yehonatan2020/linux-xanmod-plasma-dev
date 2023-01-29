@@ -275,7 +275,7 @@ sortMode=-1
 [Containments][59][Wallpaper][org.kde.image][General]
 Blur=true
 FillMode=0
-Image=/usr/share/wallpapers/Next/
+Image=/usr/share/wallpapers/LovePik.jpg
 SlidePaths=/home/archlinuxgui/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][59][Wallpaper][org.kde.potd][General]
